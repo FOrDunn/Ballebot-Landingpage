@@ -19,7 +19,8 @@ Aqui estão os links para executar o projeto
 <a href="https://www.youtube.com/watch?v=llF6vD-RljE&t=3409s">Video ensinando a fazer<a/>
 <br>
 <a href="https://www.figma.com/file/myqP66iQwzjwjrIAJyyrip/BalleBot?node-id=0%3A1">Link do figma para o projeto<a/>
-
+<br>
+<a href="https://fordunn.github.io/Ballebot-Landingpage/">Link do site hospedado<a/>
 
 ## 🤝 Criadora do projeto
 
