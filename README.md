@@ -1,6 +1,6 @@
 # Nome do projeto
 
-<img src="exemplo-image.png" alt="exemplo imagem">
+<img src="image_2022-01-23_191506.png" alt="exemplo imagem">
 
 > Linha adicional de texto informativo sobre o que o projeto faz. Sua introdução deve ter cerca de 2 ou 3 linhas. Não exagere, as pessoas não vão ler.
 
